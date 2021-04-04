@@ -1,5 +1,5 @@
 {
-  "name": "react-text-transition",
+  "name": "@bodhi-project/react-text-transition",
   "version": "1.1.2",
   "description": "A React plugin that animates your text when it changes.",
   "main": "dist/index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WinterCore/react-text-transition.git"
+    "url": "git+https://github.com/bodhi-project/react-text-transition.git"
   },
   "keywords": [
     "react",
